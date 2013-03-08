@@ -7,4 +7,4 @@ version: '1.0'
 author: osa_k
 name: userutil
 description: Utility around users.
-repository: git://git.github.com/osak/userutil.git
+repository: git://github.com/osak/userutil.git
